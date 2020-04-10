@@ -1,0 +1,4 @@
+#Fri Apr 10 02:06:40 GFT 2020
+base.0=C\:\\xampp\\htdocs\\rocketseat\\modulo1\\mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
